@@ -1,11 +1,11 @@
 {
-	"full_name": "Audrey Roy",
-	"email": "audreyr@gmail.com",
-	"github_username": "audreyr",
-	"project_name": "Python Boilerplate",
+	"full_name": "Petri Savolainen",
+	"email": "petri.savolainen@koodaamo.fi",
+	"github_username": "petri",
+	"project_name": "Python project",
 	"repo_name": "boilerplate",
-	"project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
-	"release_date": "2013-08-11",
+	"project_short_description": "Boilerplate for a Python package.",
+	"release_date": "2013-11-5",
 	"year": "2013",
 	"version": "0.1.0"
 }
