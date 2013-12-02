@@ -42,5 +42,5 @@ setup(
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.3',
     ],
-    test_suite='tests',
+    test_suite='tests.test_suite',
 )
