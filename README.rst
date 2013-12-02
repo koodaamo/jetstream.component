@@ -4,10 +4,10 @@ namespaced python 3 package template for cookiecutter
 
 Cookiecutter template for a namespaced Python > 3.3 package. 
 
-* Products implicitly namespaced packages (see PEP #420)
 * Free software: BSD license
 * Vanilla testing setup with `unittest` and `python setup.py test`
 * Travis-CI_: Ready for Travis Continuous Integration testing
+* Tox testing support
 * Sphinx_ docs: Documentation ready for generation with, for example, ReadTheDocs_
 
 For more on Cookiecutter, See https://github.com/audreyr/cookiecutter.
