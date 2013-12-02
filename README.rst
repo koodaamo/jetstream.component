@@ -1,5 +1,5 @@
 ==============================================================
-namespaced python 3 package template for cookiecutter
+ python 3 namespace package template
 ==============================================================
 
 Cookiecutter template for a namespaced Python > 3.3 package. 
