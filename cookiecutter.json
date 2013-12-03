@@ -1,10 +1,11 @@
 {
-	"full_name": "Petri Savolainen",
-	"email": "petri.savolainen@koodaamo.fi",
-	"github_username": "petri",
-	"project_name": "Python project with a namespace",
-	"repo_name": "boiler.plate",
-	"project_short_description": "Boilerplate for a namespaced Python package.",
+	"full_name": "Firstname Lastname",
+	"email": "name@provider",
+	"github_username": "username",
+	"project_name": "Jetstream xxx component",
+	"repo_name": "jetstream.xxx",
+        "component_type": "input/inspector/transformer/output",
+	"project_short_description": "Jetstream component for xxx",
 	"release_date": "2013-11-5",
 	"year": "2013",
 	"version": "0.1.0"

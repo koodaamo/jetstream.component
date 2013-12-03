@@ -5,7 +5,9 @@ Contributing
 Contributions are welcome, and they are greatly appreciated! Every
 little bit helps, and credit will always be given. 
 
-You can contribute in many ways:
+You can contribute in many ways, both to Jetstream and/or to this package. For help on
+contributing to Jetstream, please see Jetstream_.
+
 
 Types of Contributions
 ----------------------
@@ -110,3 +112,6 @@ Tips
 To run a subset of tests::
 
 	$ python -m unittest tests.test_{{ cookiecutter.repo_name }}
+
+
+.. _Jetstream: http://koodaamo.github.io/jetstream

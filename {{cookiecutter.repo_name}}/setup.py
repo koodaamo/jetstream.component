@@ -30,6 +30,7 @@ setup(
     include_package_data=True,
     install_requires=[
         "setuptools",
+        "jetstream.core",
     ],
     license="BSD",
     zip_safe=False,

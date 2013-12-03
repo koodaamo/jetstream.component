@@ -1,50 +1,20 @@
-==============================================================
- python namespace package template
-==============================================================
+==============================================================================
+ {{project_name}} - a Jetstream {{component_type}} component 
+==============================================================================
 
-Cookiecutter template for a namespaced Python package. 
+This is a 
 
-* Free software: BSD license
+* GPL3 licensed
 * Vanilla testing setup with `unittest` and `python setup.py test`
 * Travis-CI_: Ready for Travis Continuous Integration testing
 * Tox testing support
 * Sphinx_ docs: Documentation ready for generation with, for example, ReadTheDocs_
 
-For more on Cookiecutter, See https://github.com/audreyr/cookiecutter.
+For more on Jetstream, see https://jetstream.rtfd.com
 
 Usage
 -----
 
-Generate a Python package project::
+Add this {{component_type}} to your Jetstream configuration and any pipes
+you wish to use it in.
 
-    cookiecutter https://github.com/koodaamo/pypkg.namespaced.git
-
-Then:
-
-* Create a repo and put it there.
-* Add the repo to your Travis CI account.
-* Add the repo to your ReadTheDocs account + turn on the ReadTheDocs service hook.
-* Release your package the standard Python way. Here's a release checklist: https://gist.github.com/audreyr/5990987
-
-Fork This / Create Your Own
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-If you have differences in your preferred setup, I encourage you to fork this
-to create your own version. Or create your own; it doesn't strictly have to
-be a fork.
-
-Or Submit a Pull Request
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-I also accept pull requests on this, if they're small, atomic, and if they
-make my own packaging experience better.
-
-
-.. _Travis-CI: http://travis-ci.org/
-.. _Tox: http://testrun.org/tox/
-.. _Sphinx: http://sphinx-doc.org/
-.. _ReadTheDocs: https://readthedocs.org/
-.. _`Nekroze/cookiecutter-pypackage`: https://github.com/Nekroze/cookiecutter-pypackage
-.. _`lucuma/cookiecutter-pypackage`: https://github.com/lucuma/cookiecutter-pypackage
-.. _`network`: https://github.com/audreyr/cookiecutter-pypackage/network
-.. _`family tree`: https://github.com/audreyr/cookiecutter-pypackage/network/members
