@@ -1,8 +1,8 @@
 ==============================================================
- python 3 namespace package template
+ python namespace package template
 ==============================================================
 
-Cookiecutter template for a namespaced Python > 3.3 package. 
+Cookiecutter template for a namespaced Python package. 
 
 * Free software: BSD license
 * Vanilla testing setup with `unittest` and `python setup.py test`
@@ -17,7 +17,7 @@ Usage
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git
+    cookiecutter https://github.com/koodaamo/pypkg.namespaced.git
 
 Then:
 
