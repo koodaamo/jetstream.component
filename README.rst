@@ -1,5 +1,5 @@
 ==============================================================================
- Jetstream component package template 
+ Jetstream component template 
 ==============================================================================
 
 Use with cookiecutter::
