@@ -21,3 +21,6 @@ Features:
 
 For more on Jetstream, see https://jetstream.rtfd.com
 
+.. _Travis-CI: http://travis-ci.org
+.. _Sphinx: http://sphinx-doc.org
+.. _ReadTheDocs: http://readthedocs.org
